@@ -1,5 +1,7 @@
 # Aurore (parodie)
 
+*Paul*
+
 La félicité sans bornes
 De ronfler en ton giron
 Se dissipe dès la morne
