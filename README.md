@@ -2,5 +2,6 @@
 
   - *Charles Baudelaire*
 
-
   - *Paul Valéry*
+
+  - *Stéphane Mallarmé*
